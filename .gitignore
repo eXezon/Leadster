@@ -1,0 +1,19 @@
+# venv
+.venv/
+
+# keep data, ignore files
+Data/*
+!Data/.gitkeep
+
+# python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ide files
+.vscode/
+
+f1
+f2
+f3
